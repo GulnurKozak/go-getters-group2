@@ -9,7 +9,7 @@ package codingbat;
 //        withoutTen([1, 99, 10]) → [1, 99, 0]
 public class WithoutTenArrays {
     public static void main(String[] args) {
-
+        System.out.println("Elif's new commit");
     }
     public static int[] withoutTen(int[] nums) {
         return null;
