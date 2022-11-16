@@ -6,4 +6,7 @@ package codingbat;
 //        bigDiff([7, 2, 10, 9]) → 8
 //        bigDiff([2, 10, 7, 2]) → 8
 public class BigDifferenceArrays {
+    public static void main(String[] args) {
+
+    }
 }
